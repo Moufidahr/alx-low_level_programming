@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main Entry point
+  *main - Entry point
   *Description: 'check foor number if it is positive or negative'
   *Return: ALways 0
   */
