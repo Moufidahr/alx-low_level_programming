@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main - Entry point
-  *Description: 'check foor number if it is positive or negative'
-  *Return: ALways 0
+  * main - Entry point
+  * Description: 'check foor number if it is positive or negative'
+  * Return: ALways 0
   */
- int main(void)
+int main(void)
 {
 	int n;
 
@@ -25,4 +25,4 @@
 		printf("%d is negative\n", n);
 	}	
         return (0);
-}
+}	
